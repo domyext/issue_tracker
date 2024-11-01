@@ -1,5 +1,5 @@
 name: Dashboard Issue Report
-description: Report a bug, suggest a feature, or request an enhancement for the website
+description: Report a bug, suggest a feature, or request an enhancement related to Dashboard Page
 title: "[Dashboard] Brief Summary of Issue"
 labels: [triage]
 assignees: [herobuxx, yoginara]
